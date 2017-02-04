@@ -117,6 +117,11 @@ chrome.extension.sendMessage({}, function(response) {
                 'explozivnews24.ro',
                 'alternativenews.ro',
                 'exclusiv24.ro'
+                'antena3.ro'
+                'romaniatv.net'
+               'psd.ro'
+                
+             
             ];
 
             var didScroll = false;
